@@ -1,7 +1,0 @@
-crewai
-dotenv
-crewai_tools
-tools
-agents
-langchain_google_genai
-streamlit
