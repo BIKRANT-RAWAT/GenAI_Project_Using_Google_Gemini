@@ -98,7 +98,7 @@ venv\\Scripts\\activate</code></pre>
     <pre><code>GOOGLE_API_KEY=your_api_key_here</code></pre>
   </li>
   <li>Run the Streamlit app:
-    <pre><code>streamlit run app.py</code></pre>
+    <pre><code>streamlit run vision.py</code></pre>
   </li>
 </ol>
 
@@ -109,7 +109,7 @@ venv\\Scripts\\activate</code></pre>
 <pre>
 📁 Ask-via-Image-Gemini
 │
-├── app.py                  # Streamlit application
+├── vision.py                  # Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── .env                     # Environment file storing API key
 └── README.md               # Project documentation
