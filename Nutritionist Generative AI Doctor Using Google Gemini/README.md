@@ -99,7 +99,7 @@ venv\\Scripts\\activate</code></pre>
     <pre><code>GOOGLE_API_KEY=your_api_key_here</code></pre>
   </li>
   <li>Run the Streamlit app:
-    <pre><code>streamlit run app.py</code></pre>
+    <pre><code>streamlit run health.py</code></pre>
   </li>
 </ol>
 
