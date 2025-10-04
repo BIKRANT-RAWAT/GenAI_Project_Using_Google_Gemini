@@ -99,7 +99,7 @@ venv\\Scripts\\activate</code></pre>
     <pre><code>GOOGLE_API_KEY=your_api_key_here</code></pre>
   </li>
   <li>Run the Streamlit app:
-    <pre><code>streamlit run app.py</code></pre>
+    <pre><code>streamlit run main.py</code></pre>
   </li>
 </ol>
 
@@ -110,7 +110,7 @@ venv\\Scripts\\activate</code></pre>
 <pre>
 📁 Multi-Language-Invoice-Extractor
 │
-├── app.py                  # Streamlit application
+├── main.py                  # Streamlit application
 ├── requirements.txt        # Python dependencies
 ├── .env                     # Environment file storing API key
 └── README.md               # Project documentation
